@@ -5,9 +5,9 @@ from os.path import basename, join
 # 字体大小
 font_size = 8
 # 字体间距，1 即间距正好为字体大小，紧凑排布，1.2 为字体大小的 1.2 倍
-font_space = 1.2
+font_space = 1
 # 绘制的文本
-text = '郑捷丹'
+text = '美女'
 # 字体文件的路径
 font_file = './Alibaba-PuHuiTi-Regular.ttf'
 # 输入图片路径
